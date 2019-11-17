@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/bullynao/static/css/main.6f84485e.chunk.css",
+    "main.js": "/bullynao/static/js/main.ba4e68a0.chunk.js",
+    "main.js.map": "/bullynao/static/js/main.ba4e68a0.chunk.js.map",
+    "runtime-main.js": "/bullynao/static/js/runtime-main.aba892d4.js",
+    "runtime-main.js.map": "/bullynao/static/js/runtime-main.aba892d4.js.map",
+    "static/js/2.bf7d14f0.chunk.js": "/bullynao/static/js/2.bf7d14f0.chunk.js",
+    "static/js/2.bf7d14f0.chunk.js.map": "/bullynao/static/js/2.bf7d14f0.chunk.js.map",
+    "index.html": "/bullynao/index.html",
+    "precache-manifest.cbdd243bae3ae1ed8011aeb3790743b8.js": "/bullynao/precache-manifest.cbdd243bae3ae1ed8011aeb3790743b8.js",
+    "service-worker.js": "/bullynao/service-worker.js",
+    "static/css/main.6f84485e.chunk.css.map": "/bullynao/static/css/main.6f84485e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aba892d4.js",
+    "static/js/2.bf7d14f0.chunk.js",
+    "static/css/main.6f84485e.chunk.css",
+    "static/js/main.ba4e68a0.chunk.js"
+  ]
+}
