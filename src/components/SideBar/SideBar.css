@@ -1,0 +1,53 @@
+nav.SideBar {
+    float: left;
+    max-width: 7vw;
+    min-width: 30px;
+    height: 100%;
+    /*border: solid #333;
+    background-color:#333;
+    border: solid #4D4E56 ;*/
+    border: #d37bd3;
+    background-color: #d37bd3;
+    padding: 1%;
+    padding-top: 0.5%;
+    margin-right: 3%;
+    position: relative;
+}
+div.Card {
+    color: white;
+    width: 100%;
+    min-height: 30px;
+    height: 7vw;
+    padding: 2%;
+    border-radius: 20%;
+    /*background-color: #4D4E56;*/
+    background-color: #8d068d;
+    /*background-color: #b341b3;*/
+    margin-bottom: 10%;
+}
+div.Card:hover {
+  background-color: #660e66;
+}
+
+img.CardLogo {
+    position:relative;
+    height: 100%;
+    width: 80%;
+    padding-right: 0px;
+    padding-left: 0px;
+    background-position: center;
+    
+}
+
+a.LinkCreditos {
+    cursor: default;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    font-size: 1.5vw;
+}
+a.LinkCreditos:hover {
+    font-size: 1.7vw;
+    text-shadow: violet;
+}
