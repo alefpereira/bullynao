@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9d764825152ed5434c8edb9767032c41",
+    "revision": "de780c12897cc9d6e1d6245dcc33342e",
     "url": "/bullynao/index.html"
   },
   {
-    "revision": "8b6efa074deb7cc28c08",
+    "revision": "89b2806e7d2a2fc19317",
     "url": "/bullynao/static/css/main.6f84485e.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bullynao/static/js/2.bf7d14f0.chunk.js"
   },
   {
-    "revision": "8b6efa074deb7cc28c08",
-    "url": "/bullynao/static/js/main.ba4e68a0.chunk.js"
+    "revision": "89b2806e7d2a2fc19317",
+    "url": "/bullynao/static/js/main.06e8c270.chunk.js"
   },
   {
     "revision": "3da67effd52b33e82251",
